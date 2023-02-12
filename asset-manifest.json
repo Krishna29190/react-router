@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Krishna29190/react-router.git/static/css/main.073c9b0a.css",
+    "main.js": "/Krishna29190/react-router.git/static/js/main.3dfa1367.js",
+    "static/js/787.8b1b0450.chunk.js": "/Krishna29190/react-router.git/static/js/787.8b1b0450.chunk.js",
+    "index.html": "/Krishna29190/react-router.git/index.html",
+    "main.073c9b0a.css.map": "/Krishna29190/react-router.git/static/css/main.073c9b0a.css.map",
+    "main.3dfa1367.js.map": "/Krishna29190/react-router.git/static/js/main.3dfa1367.js.map",
+    "787.8b1b0450.chunk.js.map": "/Krishna29190/react-router.git/static/js/787.8b1b0450.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3dfa1367.js"
+  ]
+}
